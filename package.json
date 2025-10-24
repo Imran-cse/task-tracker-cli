@@ -6,6 +6,11 @@
   "author": "",
   "type": "commonjs",
   "main": "index.js",
+  "repository": {
+    "url": "https://github.com/Imran-cse/task-tracker-cli",
+    "type": "github",
+    "directory": "/"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

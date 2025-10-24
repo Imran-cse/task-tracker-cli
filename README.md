@@ -2,6 +2,8 @@
 
 A simple command-line interface for tracking tasks and managing your to-do list.
 
+This project is based on the [Task Tracker project challenge](https://roadmap.sh/projects/task-tracker) from roadmap.sh.
+
 ## Features
 
 - Add new tasks
@@ -14,7 +16,7 @@ A simple command-line interface for tracking tasks and managing your to-do list.
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/Imran-cse/task-tracker-cli
 cd task-tracker-cli
 
 # Install dependencies
